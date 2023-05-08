@@ -1,0 +1,135 @@
+[
+    {
+        "id":"1",
+        "name":"3 idiots 1",
+        "rating":"8",
+        "date":"20-02-23"
+        },
+
+        {
+            "id":"2",
+            "name":"3 idiots 2",
+            "rating":"8",
+            "date":"20-02-23"
+            },
+            {
+                "id":"3",
+                "name":"3 idiots 3",
+                "rating":"8",
+                "date":"20-02-23"
+                },
+                {
+                    "id":"4",
+                    "name":"3 idiots 4",
+                    "rating":"8",
+                    "date":"20-02-23"
+                    },
+                    {
+                        "id":"5",
+                        "name":"3 idiots 5",
+                        "rating":"8",
+                        "date":"20-02-23"
+                        },
+                        {
+                            "id":"6",
+                            "name":"3 idiots 6",
+                            "rating":"8",
+                            "date":"20-02-23"
+                            },
+                            {
+                                "id":"7",
+                                "name":"3 idiots 7",
+                                "rating":"8",
+                                "date":"20-02-23"
+                                },
+                                {
+                                    "id":"8",
+                                    "name":"3 idiots 8",
+                                    "rating":"8",
+                                    "date":"20-02-23"
+                                    },
+                                    {
+                                        "id":"9",
+                                        "name":"3 idiots 9",
+                                        "rating":"8",
+                                        "date":"20-02-23"
+                                        },
+                                        {
+                                            "id":"10",
+                                            "name":"3 idiots 10",
+                                            "rating":"8",
+                                            "date":"20-02-23"
+                                            },
+                                            {
+                                                "id":"11",
+                                                "name":"3 idiots 11",
+                                                "rating":"8",
+                                                "date":"20-02-23"
+                                                },
+                                                {
+                                                    "id":"12",
+                                                    "name":"3 idiots 12",
+                                                    "rating":"8",
+                                                    "date":"20-02-23"
+                                                    },
+                                                    {
+                                                        "id":"13",
+                                                        "name":"3 idiots 13",
+                                                        "rating":"8",
+                                                        "date":"20-02-23"
+                                                        },
+                                                        {
+                                                            "id":"14",
+                                                            "name":"3 idiots 14",
+                                                            "rating":"8",
+                                                            "date":"20-02-23"
+                                                            },
+                                                            {
+                                                                "id":"15",
+                                                                "name":"3 idiots 15",
+                                                                "rating":"8",
+                                                                "date":"20-02-23"
+                                                                },
+                                                                {
+                                                                    "id":"16",
+                                                                    "name":"3 idiots 16",
+                                                                    "rating":"8",
+                                                                    "date":"20-02-23"
+                                                                    },
+                                                                    {
+                                                                        "id":"17",
+                                                                        "name":"3 idiots 17",
+                                                                        "rating":"8",
+                                                                        "date":"20-02-23"
+                                                                        },
+                                                                        {
+                                                                            "id":"18",
+                                                                            "name":"3 idiots 18",
+                                                                            "rating":"8",
+                                                                            "date":"20-02-23"
+                                                                            },
+                                                                            {
+                                                                                "id":"19",
+                                                                                "name":"3 idiots 19",
+                                                                                "rating":"8",
+                                                                                "date":"20-02-23"
+                                                                                },
+                                                                                {
+                                                                                    "id":"20",
+                                                                                    "name":"3 idiots 20",
+                                                                                    "rating":"8",
+                                                                                    "date":"20-02-23"
+                                                                                    },
+                                                                                    {
+                                                                                        "id":"21",
+                                                                                        "name":"3 idiots 21",
+                                                                                        "rating":"8",
+                                                                                        "date":"20-02-23"
+                                                                                        },
+                                                                                        {
+                                                                                            "id":"22",
+                                                                                            "name":"3 idiots 22",
+                                                                                            "rating":"8",
+                                                                                            "date":"20-02-23"
+                                                                                            }    
+    ]

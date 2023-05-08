@@ -1,0 +1,23 @@
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.htag{
+  text-align: center;
+}
+
+.card{
+  width: 300px;
+  font-size: 20px;
+  border: 1px solid black;
+  background: white;
+  text-align: center;
+  border-radius: 5px;
+
+}
+
