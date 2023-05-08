@@ -32,7 +32,7 @@ function App() {
               id={movie.id}
               name={movie.name}
               rating={movie.rating}
-              date={movie.rating}
+              date={movie.date}
             />
           );
         })}
